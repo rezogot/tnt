@@ -1,5 +1,5 @@
-* TNT 
+# TNT 
 
-TNT playlist for VLC (Paris)
+TNT playlist for VLC with DVB-T adapter (Paris area)
 
 
